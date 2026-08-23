@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hunterbg193-jSGl.aternos.me
-",
+    "ip": "hunterbg193-jSGl.aternos.me:35110",
     "port": 35110,
     "version": "1.21.1"
   },
